@@ -1,0 +1,21 @@
+# static files 
+media/
+static/
+
+# virtual env
+dj_py36
+
+## Python compiled byte code
+*.pyc
+
+# test DB
+db.*
+
+# IDE settings
+.vscode/
+
+# key files
+etc/
+
+## for mac
+.DS_Store
