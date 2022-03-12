@@ -15,7 +15,7 @@ graphene-file-upload==1.2.2
 graphql-core==2.3.1
 graphql-relay==2.0.1
 jmespath==0.9.4
-Pillow==7.0.0
+Pillow==9.0.1
 promise==2.3
 psycopg2-binary==2.8.4
 PyJWT==1.7.1
